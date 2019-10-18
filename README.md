@@ -1,5 +1,7 @@
 # Posh
 
+**EDIT: Temporary fork of Posh under [org.clojars.questyarbrough/posh "x.x.x"] until is uptaken**
+
 Posh is a ClojureScript / React library that lets you use a single
 [DataScript](https://github.com/tonsky/datascript/) database to store
 your app state. Components access the
